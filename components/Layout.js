@@ -1,5 +1,3 @@
-/* components/Layout.js */
-    
 import React, { Fragment } from 'react';
 import Head from 'next/head';
 
