@@ -14,7 +14,7 @@ Before you begin, ensure that you have Node and npm or Yarn installed on your ma
 Installing dependencies
 Create a new directory for the application and run the following command to install the required dependencies for the app.
 
-# Create a new directory
+# Setting up the project
     mkdir realtime-chat-app
     
     # cd into the new directory
